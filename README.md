@@ -15,7 +15,7 @@ _Stanislaw Jarecki, Aggelos Kiayias, and Hugo Krawczyk_
 
 Даетсе описание распределенной псевдослучайной функции. Приводится доказательство что протокол безопасен в UC-фреймворке.
 
-[eprint.iacr.org/2014/650](https://eprint.iacr.org/2014/650)
+[eprint.iacr.org/2014/650](https://eprint.iacr.org/2014/650.pdf)
 ***
 **SoK: Oblivious Pseudorandom Functions**
 
@@ -23,7 +23,7 @@ _Sílvia Casacuberta, Julia Hesse, and Anja Lehmann_
 
 Хороший обзор про разные протколы PRF
 
-[eprint.iacr.org/2022/302](https://eprint.iacr.org/2022/302)
+[eprint.iacr.org/2022/302](https://eprint.iacr.org/2022/302.pdf)
 ***
 
 
