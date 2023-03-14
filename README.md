@@ -17,8 +17,8 @@ _Sílvia Casacuberta, Julia Hesse, and Anja Lehmann_\
 ## Распределенное шифрование 
 **Securing Threshold Cryptosystems against Chosen Ciphertext
 Attack**\
-_Victor Shoup and Rosario Gennaro‡_\
-Описывается распределенная версия шифрования Эль-Гамаля и доказывается, что она является CCA-безопасной в модели случайного оракула при предположениии CDH .\
+_Victor Shoup and Rosario Gennaro_\
+Описывается распределенная версия шифрования Эль-Гамаля и доказывается, что она является CCA-безопасной при предположениии CDH в модели случайного оракула .\
 [https://www.iacr.org/archive/asiacrypt2001/22480353.pdf](https://eprint.iacr.org/2014/650.pdf](https://www.iacr.org/archive/asiacrypt2001/22480353.pdf)
 
 
