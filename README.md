@@ -14,8 +14,8 @@ _Sílvia Casacuberta, Julia Hesse, and Anja Lehmann_\
 Attack**\
 _Victor Shoup and Rosario Gennaro_\
 Описывается распределенная версия шифрования Эль-Гамаля и доказывается, что она является CCA-безопасной при предположениии CDH в модели случайного оракула .\
-
 [https://www.iacr.org/archive/asiacrypt2001/22480353.pdf](https://www.iacr.org/archive/asiacrypt2001/22480353.pdf)\
+
 **Round-Optimal Password-Protected Secret Sharing and T-PAKE in the Password-Only Model**\
 _Stanislaw Jarecki, Aggelos Kiayias, and Hugo Krawczyk_\
 Даетсе описание распределенной псевдослучайной функции. Приводится доказательство что протокол безопасен в UC-фреймворке.\
