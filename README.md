@@ -14,7 +14,13 @@ _Stanislaw Jarecki, Aggelos Kiayias, and Hugo Krawczyk_\
 _Sílvia Casacuberta, Julia Hesse, and Anja Lehmann_\
 Хороший обзор про разные протколы PRF\
 [eprint.iacr.org/2022/302](https://eprint.iacr.org/2022/302.pdf)
-***
+## Распределенное шифрование 
+**Securing Threshold Cryptosystems against Chosen Ciphertext
+Attack**\
+_Victor Shoup and Rosario Gennaro‡_\
+Описывается распределенная версия шифрования Эль-Гамаля и доказывается, что она является CCA-безопасной в модели случайного оракула при предположениии CDH .\
+[https://www.iacr.org/archive/asiacrypt2001/22480353.pdf](https://eprint.iacr.org/2014/650.pdf](https://www.iacr.org/archive/asiacrypt2001/22480353.pdf)
+
 
 
 
